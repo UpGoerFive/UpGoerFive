@@ -1,8 +1,8 @@
 ### Hello!
 
-I'm a Data Scientist recently graduated from Flatiron School. I enjoy writing code to streamline the modeling and analysis process while maintaining clarity. I came to Data Science from Music, and use that practice ethic to keep doing a little every day.
+I'm a Software Developer and data enthusiast currently working at BNZ Energy. I graduated from Flatiron School in the Data Science track a year ago and followed that up with a Data Science internship at ProTrends LLC.
 
-After graduating from college, I realized I needed a change in direction. I started learning Python and found my way to Flatiron, which developed my enthusiasm for data analysis and machine learning. I'm eager to learn new languages and tools, so please, tell me about your project!
+After graduating from college with a music degree, I realized that I needed to change career tracks. I started learning Python and found my way to Flatiron, which developed my enthusiasm for data analysis and machine learning. I'm eager to learn new languages and tools, so please, tell me about your project!
 <!--
 **UpGoerFive/UpGoerFive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
