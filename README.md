@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm a data and software professional mainly focused in Python and SQL. I graduated from Flatiron School in the Data Science track a year ago and followed that up with a Data Science internship at ProTrends LLC and a Software Developer position at BNZ Energy.
+I'm a Data Scientist at Qinetiq US.
 
 After graduating from college with a music degree, I realized that I needed to change career tracks. I started learning Python and found my way to Flatiron, which developed my enthusiasm for data analysis and machine learning. I'm eager to learn new languages and tools, so please, tell me about your project!
 <!--
